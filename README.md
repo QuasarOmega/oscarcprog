@@ -5,10 +5,10 @@
 Estudante de Engenharia desenvolvendo soluções em C para cálculos técnicos e simulações.
 
 ## 👨‍💻 Projetos Destaque
-![Tarifas Entrega](https://github.com/QuasarOmega/tarifas-entregas-c)
+!Tarifas Entrega](https://github.com/QuasarOmega/tarifas-entregas-c)
 - Calcula tarifas por horário (manhã/tarde/noite) – código otimizado.
 
-![Mecânica](https://github.com/QuasarOmega/exercicios-mecanica)  
+!Mecânica](https://github.com/QuasarOmega/exercicios-mecanica)  
 - Forças, atrito e blocos – exercícios reais de física.
 
 ## 🛠️ Skills
