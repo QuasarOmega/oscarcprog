@@ -8,7 +8,7 @@ Estudante de Engenharia desenvolvendo soluções em C para cálculos técnicos e
 [![Tarifas Entrega](https://github.com/QuasarOmega/tarifas-entregas-c)
 - Calcula tarifas por horário (manhã/tarde/noite) – código otimizado.[cite:3]
 
-[![Mecânica](https://github-readme-stats.vercel.app/api/pin/?username=oscarcprog&repo/mecanica-c)](https://github.com/oscarcprog/mecanica-c)  
+[![Mecânica](https://github.com/QuasarOmega/exercicios-mecanica)  
 - Forças, atrito e blocos – exercícios reais de física.[cite:1]
 
 ## 🛠️ Skills
